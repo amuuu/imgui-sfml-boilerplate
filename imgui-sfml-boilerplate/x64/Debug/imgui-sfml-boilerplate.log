@@ -1,14 +1,14 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (imgui-fsml-boilerplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui-sfml.cpp
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(567,65): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(567,47): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(570,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(570,48): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
   imgui.cpp
+  imgui_demo.cpp
   imgui_draw.cpp
   imgui_tables.cpp
   imgui_widgets.cpp
-  imgui_demo.cpp
-  imgui-sfml.cpp
-D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\ImGui-SFML\imgui-sfml.cpp(567,65): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
-D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\ImGui-SFML\imgui-sfml.cpp(567,47): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
-D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\ImGui-SFML\imgui-sfml.cpp(570,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\ImGui-SFML\imgui-sfml.cpp(570,48): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
   test.cpp
   Generating Code...
   imgui-sfml-boilerplate.vcxproj -> D:\SoftwareProjects\imgui-sfml-boilerplate\x64\Debug\imgui-sfml-boilerplate.exe
