@@ -1,0 +1,13 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_demo.cpp
+  imgui-sfml.cpp
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(567,65): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(567,47): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(570,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\external\imgui-sfml\imgui-sfml.cpp(570,48): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  test.cpp
+  Generating Code...
+  imgui-sfml-boilerplate.vcxproj -> D:\SoftwareProjects\imgui-sfml-boilerplate\imgui-sfml-boilerplate\OUTPUT\x64\Debug\MAIN\imgui-sfml-boilerplate.exe
